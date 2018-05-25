@@ -2,6 +2,7 @@
   "name": "card-view",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://przbadu.github.io/cardview-demo",
   "dependencies": {
     "bootstrap": "^4.1.1",
     "faker": "^4.1.0",
